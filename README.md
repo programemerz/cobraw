@@ -1,7 +1,7 @@
 # COBRAW v1.1
 ## Instagram: instagram.com/programemers
 
-Extension spoofer and reverse shell generator
+Extension spoofer and reverse shell generator, get access to victim's shell.
 
 ![](image.png)
 
